@@ -6,6 +6,10 @@
 
 <img width="200" height="200" alt="images2" src="https://github.com/user-attachments/assets/ef41d967-f175-442d-803e-9f6059988901" />
 
+
+
+<img width="1470" height="1070" alt="ChatGPT Image 19 сент  2026 г , 10_26_33" src="https://github.com/user-attachments/assets/67a98af1-d296-4454-b7dc-f3193182aed1" />
+
 ## What's new in v0.34.2 (September 15, 2026)
 - First-run setup: sign in or stay local
 - `ollama://apps` opens the desktop Apps page
